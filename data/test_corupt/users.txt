@@ -1,0 +1,5 @@
+1;ana.pop;Ana;Pop;ana.pop@gmail.com
+12b;mihai.pop;Mihai;Pop;mihai.pop@gmail.com
+3;ion.x;Ion;;ion@gmail.com
+4;andrei.pop;Andrei;Pop
+1;dublura;Dan;Dobre;dan@gmail.com
